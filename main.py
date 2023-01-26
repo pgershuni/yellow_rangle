@@ -1,7 +1,7 @@
 import sys, random
 from PyQt5.QtGui import QPainter, QColor
 from PyQt5 import uic
-from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton
+from PyQt5.QtWidgets import QApplication, QMainWindow
 
 # Git и желтые окружности
 class MyWidget(QMainWindow):
